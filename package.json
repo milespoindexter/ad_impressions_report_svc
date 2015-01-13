@@ -1,0 +1,21 @@
+{
+    "name": "AdImpressionsReports",
+    "version": "0.0.0",
+    "description": "REST service for MongoDB collection",
+    "main": "adImpressionsServer.js",
+    "author": {
+        "name": "Miles Poindexter",
+        "email": "selfpropelledcity@gmail.com"
+    },
+    "dependencies": {
+        "express": "3.4.7",
+        "mongodb": "*",
+        "method-override": "2.2.0",
+        "js2xmlparser": "0.1.3",
+        "body-parser": "1.0.2",
+        "morgan": "1.2.3",
+        "jaydata": "1.3.6",
+        "xmldom": "0.1.11",
+        "q": "1.0.1"
+    }
+}
